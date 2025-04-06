@@ -47,9 +47,9 @@ CREATE TABLE Albums (
     (name, album_id)
 VALUES
     ('Kein Fick auf Schule', 1),
-    ('Summer Night City', 1),
-    ('Erst der Anfang', 2),
-    ('10 ans', 2)
+    ('Summer Night City', 2),
+    ('Erst der Anfang', 3),
+    ('10 ans', 4)
 ;
 
 /* TODO: Write a query here to select all songs */
